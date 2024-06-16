@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Hello my name is avishkar</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt architecto quisquam sunt sit repellendus magni laborum quae, temporibus distinctio possimus? Alias accusantium dolorem eaque ut provident quidem, quos quas doloremque officiis sapiente dignissimos quisquam sed quae totam nam saepe voluptatum fugit impedit sequi autem temporibus cumque possimus! Tempora natus voluptatum esse odio voluptas temporibus sit dolorem. Ullam consectetur eveniet laborum est repellat accusamus, veniam non tenetur consequatur, ab reprehenderit rem saepe magni dolores impedit dolor magnam, voluptatum placeat ex facere doloribus labore. Esse culpa, porro dolore, perferendis earum doloremque modi eum itaque eaque fugit obcaecati eligendi voluptatem vero? Quibusdam minus numquam nostrum, iste assumenda illum cum nisi, consequuntur quas voluptatem temporibus nam officia possimus culpa dicta placeat corporis consectetur. Asperiores, recusandae quo eius necessitatibus autem id natus nisi corporis amet quisquam molestias, perferendis magnam similique provident animi cupiditate commodi iure quibusdam ullam deleniti eos quod, esse omnis voluptates? Voluptatem, inventore nam laudantium, rem nostrum deserunt est, unde magni voluptate ullam sint a dolorem aperiam id quia totam? Velit esse, inventore voluptatum enim vitae aspernatur ducimus delectus debitis, sunt ex sit pariatur. Officiis at animi aliquam hic temporibus voluptas consequuntur qui quis explicabo quia odio quod necessitatibus, laborum asperiores libero dicta!</p>
+</body>
+</html>
